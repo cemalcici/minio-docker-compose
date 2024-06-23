@@ -1,0 +1,1 @@
+# MinIO On-Premise Deployment using Docker Compose
